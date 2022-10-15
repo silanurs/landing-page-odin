@@ -48,6 +48,9 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.3);
     color:darkblue;
 }
+.div {
+    margin-top: 10rem;
+}
 .history {
     z-index: 2;
     position: relative;
@@ -56,8 +59,7 @@ a:hover {
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     color: white;
-    margin-left: 10rem;
-    margin-top: 10rem;
+    margin: auto;
     font-family: lacquer, sans-serif;
 }
 h1 {
